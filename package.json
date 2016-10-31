@@ -1,13 +1,17 @@
 {
   "name": "index-store",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "helper object for generating, validating, and recycling index values",
   "main": "index.js",
   "scripts": {
     "test": "node tests.js"
   },
   "author": "Eric Birkeland <ericjbirkeland@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hadhadhadhadabettereffect/index-store.git"
+  },
   "devDependencies": {
     "tape": "^4.6.2"
   }
