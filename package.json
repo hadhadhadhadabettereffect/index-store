@@ -1,0 +1,14 @@
+{
+  "name": "index-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "Eric Birkeland <ericjbirkeland@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
